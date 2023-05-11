@@ -1,0 +1,20 @@
+to apply inline js we write body onload="whatever we want the javascript "
+
+look into quotation marks
+
+position of the placement of script tag matters(loading of js on the site-----> so put at last since it laso takes a long time to load, also all the commands will be loaded later only.) .
+Dom turns the elements and their data into a tree structure with a whole bunch of objects you can select and manipulate. 
+
+document , .innerHTML
+instead  of just heading.innerHTML     can use  heading.style.color="red"
+.queryselector("whatever selector").click(); 
+
+properties
+#.innerHTML
+#firstElementChild
+#.style 
+
+methods
+#click() 
+#setAttribute() 
+#appendChild() 
